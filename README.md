@@ -52,7 +52,7 @@
 
 ## 📫 Let’s Connect!
 
-* 💼 **LinkedIn:** [https://linkedin.com/in/mennahshaker](https://linkedin.com/in/mennahshaker)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/mennah-shaker-401705252/
 * 📧 **Email:** [mennahmohamedshaker0@gmail.com](mailto:mennahmohamedshaker0@gmail.com)
 * 🌐 **Portfolio:** https://mennahmohamed.github.io/portfolio/
 
